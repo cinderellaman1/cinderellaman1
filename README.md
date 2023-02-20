@@ -5,12 +5,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;React+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
 
-### I'm a Python Developer, Teacher and Researcher!
+### I'm a JS Developer!
 
-- 🔭 I’m currently working as Backend Engineer.
 - 🌱 I’m currently expanding my knowledge in MERN Stack.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 600 students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected
 
